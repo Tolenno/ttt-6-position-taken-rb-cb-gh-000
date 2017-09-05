@@ -1,3 +1,4 @@
 def position_taken?(index, board)
-  if the board[index] has a string != "X" || "O"
+  if board[index] != "X" || "O"
+  else the board 
 end
