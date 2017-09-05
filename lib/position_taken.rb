@@ -6,4 +6,4 @@ def position_taken?(index, board)
   end
 end
 
-position_taken?(1, " ", " ", " ", " ", " ", " ", " ", " ", " ")
+position_taken?(1, [" ", " ", " ", " ", " ", " ", " ", " ", " "])
