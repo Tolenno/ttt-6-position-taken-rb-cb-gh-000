@@ -5,3 +5,5 @@ def position_taken?(index, board)
     print "I think you've done it!"
   end
 end
+
+position_taken?(1, " ", " ", " ", " ", " ", " ", " ", " ", " ")
